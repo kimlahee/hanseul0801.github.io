@@ -1,6 +1,9 @@
 #aaa{border:3px dotted #c4c4c4;
 width:70%;
 height:70vh; display: inline-block;}
+#menubar ul{margin :0; padding:0; width:567px;}
+#menubar ul li a{text-decoration: none; color : white;}
+#menubar ul li {display: inline-block; padding:0px 15px;}
 #menu{padding: 10px; display: inline-block; position : absolute; top: 240px; }
 #menu a { 
 text-decoration: none; 
