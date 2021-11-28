@@ -5,7 +5,9 @@ height:70vh; display: inline-block;}
 #menubar ul li a{text-decoration: none; color : white;}
 #menubar ul li {display: inline-block; padding:0px 15px;}
 #menu{padding: 10px; display: inline-block; position : absolute; top: 240px; }
-#menu a { 
+#menubar ul:hover{ color: white;
+ background-color: #90603a
+}
 text-decoration: none; 
 color: #887671;
 }
